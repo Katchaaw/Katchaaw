@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Katchaaw or Alves Vieira Lionel if you want my real name !
+- 👋 Hi, I’m @Katchaaw or Lionel Alves Vieira if you want my real name !
 - 👀 I’m interested in cybersecurity, programming and informatic in general.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to study in informatic.
