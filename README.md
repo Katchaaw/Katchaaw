@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Katchaaw or Lionel Alves Vieira if you want my real name !
-- 👀 I’m interested in cybersecurity, programming and informatic in general.
-- 🌱 I’m currently studing Computer Science at Uni.
-- 📫 How to reach me: lionel.alvesvieira@gmail.com
+- 👋 Hi, I’m @Katchaaw!
+- 👀 I’m interested in Video Games, Cybersecurity, Programming and Computer Science in general.
+- 🌱 I’m currently studing Computer Science at Université Paris Cité.
+- 📫 How to reach me: kaatchaaw@gmail.com
 
 <!---
 Katchaaw/Katchaaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
