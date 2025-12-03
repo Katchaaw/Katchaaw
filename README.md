@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Katchaaw!
-- 👀 I’m interested in Video Games, Cybersecurity, Programming and Computer Science in general.
-- 🌱 I’m currently studing Computer Science at Université Paris Cité.
+- 👀 I’m interested in Programming, Video Games and Computer Science in general.
+- 🌱 I’m currently studing Computer Science at Sorbonne Université.
 - 📫 How to reach me: kaatchaaw@gmail.com
 
 <!---
